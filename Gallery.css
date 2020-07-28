@@ -1,0 +1,32 @@
+﻿.jumb   {
+
+	color:red;
+    font-size:1.5em;
+    font-family:Segoe Marker;
+	text-transform:capitalize;
+
+     }
+
+.gal{
+
+    color:green;
+    margin:50px;
+    font-size:1.5em;
+    font-family:Gabriola;
+    text-decoration:underline;
+    text-transform:capitalize;   
+}
+
+.baby{
+    margin:50px;
+}
+
+.babygirl   {
+
+		color:green;
+        margin:50px;
+        font-size:1.5em;
+        font-family:Gabriola;
+        text-decoration:underline;
+		text-transform:capitalize;		
+	}
